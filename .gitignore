@@ -2,7 +2,8 @@
 .vscode/
 bin/*
 logs/
-
+notestoself
+.ionide
 #Files
 *.user
 *._DS_STORE
